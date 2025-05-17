@@ -2,7 +2,7 @@
 
 If you're diving into **Forsaken** and want a script that does it *all*, this is your go-to. The **Forsaken Good Script** is a top-tier, **keyless** tool packed with over **35 versatile features** for farming, vision, automation, and anti-mechanics. No keys, no fluff—just a powerhouse script ready for the next update and beyond.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/Forsaken-Good-Script/blob/main/Forsaken%20Good%20Script.png)
 
 ---
 
